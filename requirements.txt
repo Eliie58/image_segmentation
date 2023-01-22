@@ -1,0 +1,8 @@
+jupyterlab==3.5.2
+opencv-python==4.7.0.68
+fastapi==0.89.1
+uvicorn==0.20.0
+python-multipart==0.0.5
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch
+torchvision
